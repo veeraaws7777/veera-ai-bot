@@ -1,0 +1,7 @@
+{
+  "name": "Veera AI",
+  "description": "A high-performance, aesthetically pleasing AI chatbot powered by the latest Gemini models, featuring streaming responses, image analysis, and Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
