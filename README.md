@@ -1,9 +1,5 @@
 
-# Run and deploy your AI Studio app
-
-
-
-## Run Locally
+# Run and deploy 
 
 **Prerequisites:**  Node.js
 
